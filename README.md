@@ -39,3 +39,7 @@ docker run -it editor
 1. Для набора текста доступны только английские буквы, клавиши Enter и Backspace и стрелки вверх, вниз, влево, вправо
 2. Выход из приложения - Ctrl + C
 3. Вход в меню - Ctrl + A
+
+# Демо
+
+https://drive.google.com/file/d/1wZlKumtKKZomRZi2oAqTLVtVbEFoEoQq/view?usp=sharing
